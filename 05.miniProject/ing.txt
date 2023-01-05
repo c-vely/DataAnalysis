@@ -1,0 +1,15 @@
+[프로젝트]
+- 제목 : 네이버 부동산 웹 크롤링
+- 목적 : 부동산중개소의 이름 + 핸드폰번호 추출
+- 위치 : 인천 남동구 만수동 / 인천 계양구 효성동
+
+
+
+
+[강좌]
+- 네이버 부동산 웹 크롤링 강좌     https://www.oppadu.com/%EC%97%91%EC%85%80-%ED%81%AC%EB%A1%A4%EB%A7%81-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EB%8F%99%EC%82%B0/#!
+- 웹 자동화     https://www.youtube.com/playlist?list=PL5L3Lhdx2zrPzFeVyQ_SJhTpy0lLPCmfZ
+
+
+[참고]
+- 셀레니움 + 네이버부동산 웹크롱링   https://shaula0.tistory.com/56
