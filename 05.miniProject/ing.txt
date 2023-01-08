@@ -1,9 +1,9 @@
 [프로젝트]
+
+*** 0105 목요일
 - 제목 : 네이버 부동산 웹 크롤링
 - 목적 : 부동산중개소의 이름 + 핸드폰번호 추출
 - 위치 : 인천 남동구 만수동 / 인천 계양구 효성동
-
-
 
 
 [강좌]
@@ -13,3 +13,23 @@
 
 [참고]
 - 셀레니움 + 네이버부동산 웹크롱링   https://shaula0.tistory.com/56
+
+
+*** 0106 금요일
+
+<문제>
+1. 페이지에서 숨겨진 정보가 있음. 절대 값이 읽히지 않음
+
+<방안>
+1. 교수님 왈 : 우선 페이지 스크롤을 끝까지 한다음, div 개수를 확인하여 for문을 돌릴 수 있을 거 같음
+
+
+
+*** 0108 일요일
+
+** 셀레니움으로 페이지 스크롤 해보기
+
+<참고>
+- https://seill.tistory.com/843
+- 동적 웹페이지 크롤링 with Seleniem   https://charimlab.tistory.com/entry/ep01%EC%9B%B9%ED%81%AC%EB%A1%A4%EB%A7%81-11-%EB%8F%99%EC%A0%81-%ED%8E%98%EC%9D%B4%EC%A7%80%EC%9B%B9-%EB%8F%99%EC%9E%91-%EC%9E%90%EB%8F%99%ED%99%94Selenium-with-%ED%8C%8C%EC%9D%B4%EC%8D%AC
+- 네이버 상품목록 크롤링 방법   https://goddino.tistory.com/352
